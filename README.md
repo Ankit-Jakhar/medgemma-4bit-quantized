@@ -42,7 +42,7 @@ pip install transformers>=4.50.0 accelerate bitsandbytes peft==0.13.2 pillow<11.
 
 ## Quantized Model on Hugging Face
 
-👉 [YOUR_HF_USERNAME/medgemma-1.5-4b-int4](https://huggingface.co/YOUR_HF_USERNAME/medgemma-1.5-4b-int4)
+👉 Ankit-jakhar/medgemma-1.5-4b-int4](https://huggingface.co/YOUR_HF_USERNAME/medgemma-1.5-4b-int4)
 
 ## Important Notice
 
